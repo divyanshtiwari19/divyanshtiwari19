@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Divyansh</h1>
-<h3 align="center">A passionate frontend developer from India, I have been working in software development for more than 1 years. During this period, I have worked on some large-scale projects. Here are some of the key things which might be helpful for you. ✔ Build a Learning Management System for CyberSecurity Edtech company which provides custom labs and classroom that I built. ✔ Highly involved in a project where you can dance together with your peers sharing video and audio. ✔ Managing servers and networks in AWS and Digital Ocean The project qualities always have been high. My Top Skills: ✔ Excellent Problem Solving quality. ✔ NextJs, Core Javascript, NodeJS, ReactJS, ExpressJS, MongoDB, Redux. ✔ Automated testing, CI implementation ✔ AWS, Nginx</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshtiwari19&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshtiwari19" /> </p>
 
